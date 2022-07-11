@@ -1,6 +1,6 @@
-# untitled
+# WYNK
 
-A new Flutter project.
+Rides. Payments. Lifestyle
 
 ## Getting Started
 
